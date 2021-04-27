@@ -1,0 +1,19 @@
+#apps{
+    text-align: center;
+    background-color: aqua;
+    margin: 20px;
+}
+#chatbot{
+    text-align: center;
+    background-color: red;
+    margin: 20px;
+}
+#games{
+    text-align: center;
+    background-color: greenyellow;
+    margin: 20px;
+}
+#games img{
+    width: 400px;
+    height: 400px;
+}
